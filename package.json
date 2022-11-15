@@ -1,0 +1,8 @@
+{
+  "name": "emeraldhill",
+  "version": "1.0.0",
+  "dependencies": {
+    "howler": "^2.2.3",
+    "jquery": "^3.6.1"
+  }
+}
